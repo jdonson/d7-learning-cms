@@ -1,4 +1,4 @@
-glossary-quiz-grading
-=====================
+course-lexicon-quiz-grading
+===========================
 
-Drupal 6 => 7 Module Ports:  Glossary-Quiz-Grading
+Drupal 6 => 7 Module Port:  Grading
